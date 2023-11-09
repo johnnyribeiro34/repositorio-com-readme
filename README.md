@@ -1,5 +1,5 @@
 # projeto com readme
-um projeto com um aqrquivo readme 🧬
+um projeto com um arquivo readme 🧬
 
 
 [<img src="./teste-readme.gif" alt="gif tela teste">](https://gooogle.com)
